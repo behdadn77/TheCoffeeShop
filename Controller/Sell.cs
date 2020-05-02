@@ -8,6 +8,7 @@ namespace TheCoffeeShop.Controller
 {
     public class Sell
     {
+
         public object GetSalesHistory()
         {
             throw new NotImplementedException();
